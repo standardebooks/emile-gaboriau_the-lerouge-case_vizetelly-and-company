@@ -36,7 +36,9 @@
 		<meta property="se:subject">Mystery</meta>
 		<dc:description id="description">The first case in print of Inspector Lecoq’s.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Considered by many to be the first detective novel, The Lerouge Case (aka The Widow Lerouge) introduced Monsieur Lecoq, although in this first book he plays a minor part.&lt;/p&gt;
+			&lt;p&gt;Considered by many to be the first detective novel, The Lerouge Case (aka The Widow Lerouge) introduced Monsieur Lecoq (later Inspector Lecoq), a former “habitual criminal” who becomes a police officer. Emile Gaboriau based Lecoq at least in part on an actual criminal-turned-police officer, Eugène Vidocq, who went on to be the first director of the Sûreté. In this first book, Lecoq plays a relatively small part, the bulk of the mystery solving being done by Lecoq’s mentor Tabaret, an amateur detective.&lt;/p&gt;
+			&lt;p&gt;Gaboriau thus introduces both a police detective and an amateur one at the same time. Many of the attributes now taken for granted in the mystery arena originated with Gaboriau and Lecoq—hyper attention to detail, masters of disguises, amateur “agents” who assist the detective, and the above-mentioned amateur detectives that assist and sometimes out-perform the police versions.&lt;/p&gt;
+			&lt;p&gt;Gaboriau’s Lecoq novels were wildly successful until another amateur detective named Holmes made his appearance. Holmes even comments on Lecoq in &lt;i&gt;A Study in Scarlet&lt;/i&gt;, dismissing him as a “miserable bungler” in response to Dr. Watson’s question. Nevertheless, Arthur Conan Doyle was obviously influenced by Gaboriau and Lecoq, as many of Holmes’ traits can be seen first in Lecoq.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
