@@ -1,16 +1,7 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-b{
-	font-weight: normal;
-	font-variant: small-caps;
-}
-
-section > header{
-	text-align: center;
-}
-
-header{
+blockquote header{
 	text-align: right;
 }
 
