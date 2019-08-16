@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/emile-gaboriau/the-lerouge-case</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/emile-gaboriau/the-lerouge-case/vizetelly-and-company</dc:identifier>
 		<dc:date>2019-07-08T22:22:50Z</dc:date>
 		<meta property="dcterms:modified">2019-07-08T22:22:50Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
@@ -37,24 +37,27 @@
 		<meta property="se:collection">Monsieur Lecoq</meta>
 		<dc:description id="description">A widow is found dead under mysterious circumstances, and Monsieur Lecoq of the police arranges to have his mentor brought in to help solve the crime.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Considered by many to be the first detective novel, &lt;i&gt;The Lerouge Case&lt;/i&gt; (aka &lt;i&gt;The Widow Lerouge&lt;/i&gt;) introduces Monsieur Lecoq (later Inspector Lecoq), a former “habitual criminal” who becomes a police officer. Emile Gaboriau based Lecoq at least in part on an actual criminal-turned-police-officer, Eugène Vidocq, who went on to be the first director of the Sûreté. In this first book, Lecoq plays a relatively small part, the bulk of the mystery solving being done by Lecoq’s mentor Tabaret, an amateur detective.&lt;/p&gt;
+			&lt;p&gt;Considered by many to be the first detective novel, &lt;i&gt;The Lerouge Case&lt;/i&gt; (aka &lt;i&gt;The Widow Lerouge&lt;/i&gt;) introduces Monsieur Lecoq (later Inspector Lecoq), a former “habitual criminal” who becomes a police officer. Émile Gaboriau based Lecoq at least in part on an actual criminal-turned-police-officer, Eugène Vidocq, who went on to be the first director of the Sûreté. In this first book, Lecoq plays a relatively small part, the bulk of the mystery solving being done by Lecoq’s mentor Tabaret, an amateur detective.&lt;/p&gt;
 			&lt;p&gt;Gaboriau thus introduces both a police detective and an amateur detective at the same time. Many of the attributes now taken for granted in the mystery arena originated with Gaboriau and Lecoq—hyper attention to detail, mastery of disguises, amateur “agents” who assist the detective, and the above-mentioned amateur detectives that assist and sometimes out-perform the police versions.&lt;/p&gt;
 			&lt;p&gt;Gaboriau’s Lecoq novels were wildly successful until another amateur detective named Holmes made his appearance. Holmes even comments on Lecoq in &lt;a href="https://standardebooks.org/ebooks/arthur-conan-doyle/a-study-in-scarlet"&gt;&lt;i&gt;A Study in Scarlet&lt;/i&gt;&lt;/a&gt;, dismissing him as a “miserable bungler” in response to Dr. Watson’s question. Nevertheless, Arthur Conan Doyle was obviously influenced by Gaboriau and Lecoq, as many of Holmes’ traits can be seen first in Lecoq.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3802</dc:source>
-		<dc:source> https://catalog.hathitrust.org/Record/102486024</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/102486024</dc:source>
 		<meta property="se:word-count">124568</meta>
 		<meta property="se:reading-ease.flesch">73.88</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/emile-gaboriau_the-lerouge-case</meta>
-		<dc:creator id="author">Emile Gaboriau</dc:creator>
-		<meta property="file-as" refines="#author">Gaboriau, Emile</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Emile_Gaboriau</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/emile-gaboriau_the-lerouge-case_vizetelly-and-company</meta>
+		<dc:creator id="author">Émile Gaboriau</dc:creator>
+		<meta property="file-as" refines="#author">Gaboriau, Émile</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Émile_Gaboriau</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/no98072052</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="translator-1">Vizetelly and Company</dc:contributor>
-		<meta property="file-as" refines="#translator-1">Vizetelly and Company</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n50061643</meta>
+		<dc:contributor id="translator">Vizetelly and Company</dc:contributor>
+		<meta property="file-as" refines="#translator">Vizetelly and Company</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Henry_Vizetelly</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/nr00000798</meta>
+		<meta property="display-seq" refines="#translator">1</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Edgar Degas</dc:contributor>
 		<meta property="file-as" refines="#artist">Degas, Edgar</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edgar_Degas</meta>
