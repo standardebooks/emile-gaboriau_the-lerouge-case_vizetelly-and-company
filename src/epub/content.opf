@@ -36,6 +36,7 @@
 		<meta property="se:subject">Mystery</meta>
 		<meta property="belongs-to-collection" id="collection-1">Monsieur Lecoq</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">A widow is found dead under mysterious circumstances, and Monsieur Lecoq of the police arranges to have his mentor brought in to help solve the crime.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Considered by many to be the first detective novel, &lt;i&gt;The Lerouge Case&lt;/i&gt; (aka &lt;i&gt;The Widow Lerouge&lt;/i&gt;) introduces &lt;a href="https://standardebooks.org/collections/monsieur-lecoq"&gt;Monsieur Lecoq&lt;/a&gt; (later Inspector Lecoq), a former “habitual criminal” who becomes a police officer. &lt;a href="https://standardebooks.org/ebooks/emile-gaboriau"&gt;Émile Gaboriau&lt;/a&gt; based Lecoq at least in part on an actual criminal-turned-police-officer, Eugène Vidocq, who went on to be the first director of the Sûreté. In this first book, Lecoq plays a relatively small part, the bulk of the mystery solving being done by Lecoq’s mentor Tabaret, an amateur detective.&lt;/p&gt;
