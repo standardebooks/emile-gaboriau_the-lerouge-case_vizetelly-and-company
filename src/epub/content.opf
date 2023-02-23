@@ -57,7 +57,6 @@
 		<meta property="file-as" refines="#translator">Vizetelly and Company</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Henry_Vizetelly</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/nr00000798</meta>
-		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Edgar Degas</dc:contributor>
 		<meta property="file-as" refines="#artist">Degas, Edgar</meta>
