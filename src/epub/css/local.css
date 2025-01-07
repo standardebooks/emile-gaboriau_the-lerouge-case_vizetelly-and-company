@@ -1,10 +1,7 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-blockquote header{
-	text-align: right;
-}
-
+/* letters */
 footer{
 	margin-top: 1em;
 	text-align: right;
@@ -13,3 +10,14 @@ footer{
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
+
+.telegram{
+	font-variant: all-small-caps;
+}
+/* end of letters */
+
+/* custom */
+blockquote header{
+	text-align: right;
+}
+/* end of custom */
